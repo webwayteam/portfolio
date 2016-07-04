@@ -1,0 +1,82 @@
+a:hover  +  .kuku{display:block;
+ background-color: yellow;
+display:block;
+}
+
+
+.kuku {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    position: absolute;
+    top: 465px;
+	display:block;
+	right:0;
+	display:none;
+}
+
+
+
+.image-map > a.map {
+    position: absolute;
+    display: block;
+    /*border: 1px solid green;*/
+    height: 95px;
+    top: 0px;
+}
+.image-map > a.map:hover {
+    background: url('http://www.google.com/intl/en_com/images/srpr/logo3w.png') no-repeat 0 0;
+}
+#clone {
+    background: #fff;
+}
+.image-map > a.map.lett-g-1 {
+    left: 0px;
+    width: 70px;
+}
+.image-map > a.map.lett-o-1 {
+    left: 70px;
+    width: 47px;
+}
+.image-map > a.map.lett-o-2 {
+    left: 117px;
+    width: 47px;
+}
+.image-map > a.map.lett-g-2 {
+    left: 167px;
+    width: 50px;
+}
+.image-map > a.map.lett-l {
+    left: 214px;
+    width: 20px;
+}
+.image-map > a.map.lett-e {
+    left: 234px;
+    width: 35px;
+}
+.image-map > a.map.lett-g-1:hover {
+    background-position: -235px 0;
+    margin-left: 15px;
+}
+.image-map > a.map.lett-o-1:hover {
+    background-position: -210px;
+    margin-left: 10px;
+    width: 26px;
+}
+.image-map > a.map.lett-o-2:hover {
+    background-position: -165px;
+    width:49px;
+}
+.image-map > a.map.lett-g-2:hover {
+    background-position: -120px;
+    margin-left:-1px;
+    width:46px;
+}
+.image-map > a.map.lett-l:hover {
+    background-position: -70px;
+    margin-left: -15px;
+    width: 50px;
+}
+.image-map > a.map.lett-e:hover {
+    width: 70px;
+} 
